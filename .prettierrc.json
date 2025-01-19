@@ -1,9 +1,11 @@
 {
-    "printWidth": 110,
+    "printWidth": 80,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
     "tabWidth": 4,
     "useTabs": true,
     "semi": true,
     "singleQuote": true,
-    "trailingComma": "all"
+    "trailingComma": "all",
+	"prettier.proseWrap": "always"
 
 }
